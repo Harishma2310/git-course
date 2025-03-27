@@ -1,0 +1,2 @@
+Add and Remove users
+Allowed to change the rules
